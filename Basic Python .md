@@ -1,4 +1,4 @@
-![KakaoTalk_20210118_131607293 (3)](https://user-images.githubusercontent.com/77470429/104927396-b93b0300-59e4-11eb-9f0e-c1dd23dfb1dc.jpg)
+# ![KakaoTalk_20210118_131607293 (3)](https://user-images.githubusercontent.com/77470429/104927396-b93b0300-59e4-11eb-9f0e-c1dd23dfb1dc.jpg) 1/18 Python 
 
 ## 기초 문법
 
