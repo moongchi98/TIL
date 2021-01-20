@@ -1,5 +1,4 @@
-# ![KakaoTalk_20210118_131607293 (3)](https://user-images.githubusercontent.com/77470429/105180887-786ef580-5b6e-11eb-8368-32076cf36c2f.jpg)
-1/20 함수(Function) Part.I
+# ![KakaoTalk_20210118_131607293 (3)](https://user-images.githubusercontent.com/77470429/105180887-786ef580-5b6e-11eb-8368-32076cf36c2f.jpg)1/20 함수(Function) Part.I
 
 # 함수(Function)
 
