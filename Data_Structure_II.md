@@ -1,4 +1,4 @@
-# ![KakaoTalk_20210118_131607293 (3)](C:\Users\kwakn\Pictures\KakaoTalk_20210118_131607293 (3).jpg) 1/24 데이터 구조(Data Structure) II
+# ![KakaoTalk_20210118_131607293 (3)](https://user-images.githubusercontent.com/77470429/105714360-93bb7580-5f5f-11eb-8e53-032d608ac77d.jpg) 1/24 데이터 구조(Data Structure) II
 
 ## 세트(Set)
 
