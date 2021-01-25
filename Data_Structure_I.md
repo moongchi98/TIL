@@ -1,4 +1,4 @@
-# ![KakaoTalk_20210118_131607293 (3)](C:\Users\kwakn\Pictures\KakaoTalk_20210118_131607293 (3).jpg)1/24 데이터 구조(Data Structure) I
+# ![KakaoTalk_20210118_131607293 (3)](https://user-images.githubusercontent.com/77470429/105714360-93bb7580-5f5f-11eb-8e53-032d608ac77d.jpg)1/24 데이터 구조(Data Structure) I
 
 > 순서가 있는 데이터 구조는 알고리즘에 빈번히 사용된다. 문자열(String), 리스트(List)가 해당! 
 >
