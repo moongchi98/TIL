@@ -1,4 +1,4 @@
-# ![KakaoTalk_20210118_131607293 (3)](C:\Users\kwakn\Pictures\KakaoTalk_20210118_131607293 (3).jpg) 01/27 Object Oriented Programming
+# ![KakaoTalk_20210118_131607293 (3)](https://user-images.githubusercontent.com/77470429/105999234-ca74c580-60f0-11eb-859c-1fec0aa565d8.jpg) 01/27 Object Oriented Programming
 
 ## 1. 객체(Object)
 
